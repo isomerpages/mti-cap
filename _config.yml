@@ -2,7 +2,7 @@ title: Title
 url: ""
 favicon: /images/logo_short.JPG
 colors:
-  primary-color: "#000000"
+  primary-color: "#00838f"
   secondary-color: "#000000"
   media-colors:
     - title: media-color-one
