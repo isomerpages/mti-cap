@@ -2,8 +2,6 @@ logo: /images/logo_long.JPG
 links:
   - title: About US
     url: /permalink
-  - title: FAQ
-    url: /page/
   - title: Media Centre
     resource_room: true
   - title: Contact Us
