@@ -1,12 +1,12 @@
 logo: /images/logo_long.JPG
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
   - title: About US
     url: /permalink
+  - title: FAQ
+    url: /page/
+  - title: Media Centre
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: Collection
+    collection: collection
