@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Commitee Against Profiteering
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Home.JPG
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: Page B
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
