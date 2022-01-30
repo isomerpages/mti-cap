@@ -8,6 +8,3 @@ links:
     collection: collection
   - title: Resource
     resource_room: true
-  - title: "Home "
-    url: /permalink
-    sublinks: []
