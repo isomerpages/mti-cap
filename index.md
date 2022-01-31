@@ -16,9 +16,15 @@ sections:
         - title: For consumer
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: For bsuiness
+        - title: For business
           description: Page A is important too
           url: /privacy/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: What is CAP?
       subtitle: About
