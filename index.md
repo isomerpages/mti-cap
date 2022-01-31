@@ -16,7 +16,7 @@ sections:
         - title: For consumer
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: For business
+        - title: For businesses
           description: Page A is important too
           url: /privacy/
         - title: Key Highlight Title
