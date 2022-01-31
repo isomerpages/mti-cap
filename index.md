@@ -25,14 +25,14 @@ sections:
       description: About a sentence worth of description here
       button: Learn more
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infobar:
       title: Share your Feedback
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Feedback Form
       url: https://form.gov.sg/5e786b01db9bef0011824410
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
