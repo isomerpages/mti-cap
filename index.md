@@ -37,10 +37,6 @@ sections:
       button: Button Text
       image: /images/infographics_whypricesgoup.png
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Ways to mitigate price increase
       subtitle: Infopic Subtitle
@@ -48,4 +44,9 @@ sections:
       button: Find out more
       url: \permalink
       alt: Image alt text
+      image: /images/infographics_mitigateprice.png
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
