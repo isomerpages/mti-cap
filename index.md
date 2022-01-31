@@ -26,10 +26,10 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: What is CAP?
+      subtitle: About
       description: About a sentence worth of description here
-      button: Button text
+      button: Learn more
       url: /faq/
   - resources:
       title: Media
