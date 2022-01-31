@@ -26,19 +26,26 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: What is CAP?
+      title: Who We Are
       subtitle: About
       description: About a sentence worth of description here
       button: Learn more
       url: /faq/
-  - infobar:
-      title: Share your Feedback
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Feedback Form
-      url: https://form.gov.sg/5e786b01db9bef0011824410
+  - infopic:
+      title: Why are prices going up?
+      description: Infopic description
+      button: Button Text
+      image: /images/infographics_whypricesgoup.png
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Ways to mitigate price increase
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Find out more
+      url: \permalink
+      alt: Image alt text
 ---
