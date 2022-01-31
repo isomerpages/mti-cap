@@ -13,18 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: About Us
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
+        - title: For consumer
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: For bsuiness
           description: Page A is important too
           url: /privacy/
-        - title: Page B
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: What is CAP?
       subtitle: About
@@ -35,4 +29,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Share your Feedback
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Feedback Form
+      url: https://form.gov.sg/5e786b01db9bef0011824410
 ---
