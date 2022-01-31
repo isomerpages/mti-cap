@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - "FAQ #2.md"
-      - faq.md
+      - "FAQ #1.md"
