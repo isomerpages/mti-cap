@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Committee Against Profiteering (CAP)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -63,3 +63,4 @@ sections:
       image: /images/infographics_mitigateprice.png
       alt: Price Kaki App
 ---
+
