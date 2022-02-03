@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - Example Title  how long can this title go go go go.md
       - "FAQ #2.md"
       - "FAQ #1.md"
