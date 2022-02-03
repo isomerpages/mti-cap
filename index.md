@@ -30,7 +30,7 @@ sections:
       subtitle: About
       description: About a sentence worth of description here
       button: Learn more
-      url: /faq/
+      url: /testing-page
   - infobar:
       title: Share your Feedback
       subtitle: Feedback
