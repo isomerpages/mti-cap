@@ -26,11 +26,17 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Who We Are
+      title: What is CAP?
       subtitle: About
       description: About a sentence worth of description here
       button: Learn more
       url: /faq/
+  - infobar:
+      title: Share your Feedback
+      subtitle: Feedback
+      description: If you suspect xxx
+      button: Feedback Form
+      url: /faq
   - infopic:
       title: Why are prices going up?
       description: Infopic description
