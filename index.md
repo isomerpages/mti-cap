@@ -55,4 +55,11 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Price Kaki App
+      description: Please click
+      button: Download Now
+      url: https://www.google.com/
+      image: /images/infographics_mitigateprice.png
+      alt: Price Kaki App
 ---
