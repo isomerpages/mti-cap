@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Commitee Against Profiteering
+      title: Committee Against Profiteering
       subtitle: Hero subtitle
       background: /images/Home.JPG
       button: Contact Us
