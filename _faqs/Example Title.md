@@ -10,7 +10,7 @@ description: ""
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>  
+  </li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
@@ -54,4 +54,3 @@ description: ""
     </div>
   </li>
 </ul>
-
