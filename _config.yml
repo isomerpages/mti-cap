@@ -53,3 +53,4 @@ plugins:
 staging: https://mti-cap-staging.netlify.app
 prod: https://mti-cap-prod.netlify.app
 is_government: true
+google_analytics: UA-219618356-1
