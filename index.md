@@ -22,8 +22,8 @@ sections:
       button: Learn more
       url: /testing-page
       description: CAP investigates feedback on alleged profiteering or unjustified
-        price increases of essentials, using the upcoming Goods and Services Tax
-        (GST) increase ...
+        price increases of essentials, using the upcoming GST increase as an
+        excuse.
   - infobar:
       title: Share your Feedback
       description: Provide details about cases of alleged profiteering or unjustified
