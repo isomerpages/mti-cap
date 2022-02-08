@@ -15,7 +15,7 @@ sections:
           url: /forconsumers
         - title: For business owners
           description: ""
-          url: ""
+          url: /forbusinessowners
   - infobar:
       title: What is The Committee Against GST Profiteering (CAP)?
       subtitle: About
