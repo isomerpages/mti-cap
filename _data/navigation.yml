@@ -1,14 +1,12 @@
 logo: /images/logo_long.JPG
 links:
-  - title: About US
+  - title: What is CAP?
     url: /permalink
-  - title: Media Centre
-    resource_room: true
-  - title: Contact Us
+  - title: For Consumers
     url: /contact-us/
-  - title: Collection
-    collection: collection
-  - title: FAQs
-    collection: faqs
-  - title: Lodge a complaint?
+  - title: For Business Owners
+    url: /permalink
+  - title: Resources
+    resource_room: true
+  - title: Feedback Form
     url: https://form.gov.sg/#!/5e786b01db9bef0011824410
