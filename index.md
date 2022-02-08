@@ -23,17 +23,10 @@ sections:
       url: /testing-page
   - infobar:
       title: Share your Feedback
-      subtitle: Feedback
       description: Provide details about cases of alleged profiteering or unjustified
         price increases of  essentials.
       button: Feedback Form
       url: /faq
-  - infopic:
-      title: Why are prices going up?
-      description: Infopic description
-      button: Button Text
-      image: /images/infographics_whypricesgoup.png
-      alt: Image alt text
   - resources:
       title: Resources
       subtitle: Media
