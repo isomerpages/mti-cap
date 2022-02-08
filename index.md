@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/HomeBanner.JPG
+      background: /images/hi-resolution/hero1.jpg
       url: /contact-us/
       key_highlights:
         - title: For consumer
