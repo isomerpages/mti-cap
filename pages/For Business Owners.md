@@ -5,7 +5,6 @@ date: 2022-02-08
 layout: post
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -24,4 +23,38 @@ description: ""
     </div>
   </li>
 	
+		<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">How should I explain a price increase?  </label>
+    <div>
+      <p>Sharing the following information will be helpful: <br>
+			
+•	Why are you raising your prices?<br>
+•	When was the last time you increased your prices?<br>
+•	What is the increase in prices relative to the rise in operating costs? <br>
+</p>
+			
+				<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Who can I speak with for more information? </label>
+    <div>
+      <p>You can approach your trade association to find out more about related best practices. 
+</p>
+
+    </div>
+  </li>
+	
+			<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">What support can I get to cope with rising costs? </label>
+    <div>
+      <p>The Government continues to extend support to businesses to defray operating costs. Read more here <insert link to downloadable infographic “Support for Businesses” under Resources>
+				</p>
+
+<p>For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation [here](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview)
+
+</p>
+
+    </div>
+  </li>
 	</ul>
