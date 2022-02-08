@@ -16,6 +16,20 @@ description: This is to test, should always include this for SEO
       </ol>
     </div>
   </li>
-    
+   
+	 <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">What can I do if I come across a business that has raised prices unjustifiably?</label>
+    <div>
+      <ol>
+        <li>Raise the matter to the Committee Against GST Profiteering immediately. The Committee Against GST Profiteering takes feedback on alleged profiteering or unjustified price increases of  essentials, seriously. </li>
+        <li>Help us identify errant businesses by providing us with detailed information, including the following:
+
+•	Details of the business, including name and exact location
+•	Details of the specific product and price increase
+</li>
+      </ol>
+    </div>
+  </li>
  
 </ul>
