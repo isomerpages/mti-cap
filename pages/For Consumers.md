@@ -16,8 +16,8 @@ description: This is to test, should always include this for SEO
       </ol>
     </div>
 	</li>
-</ul>
-<ul class="jekyllcodex_accordion">
+
+
  <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">What can I do if I come across a business that has raised prices unjustifiably?</label>
