@@ -7,10 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Committee Against Profiteering
       subtitle: Hero subtitle
-      background: /images/Home.JPG
-      button: Contact Us
+      background: /images/HomeBanner.JPG
       url: /contact-us/
       key_highlights:
         - title: For consumer
@@ -63,4 +61,3 @@ sections:
       image: /images/infographics_mitigateprice.png
       alt: Price Kaki App
 ---
-
