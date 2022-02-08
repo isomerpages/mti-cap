@@ -33,6 +33,7 @@ description: ""
 •	When was the last time you increased your prices?<br>
 •	What is the increase in prices relative to the rise in operating costs? <br>
 </p>
+			</li>
 			
 				<li>
     <input type="checkbox" id="accordion4">
@@ -51,9 +52,7 @@ description: ""
       <p>The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://go.gov.sg/469pwq">here</a>. 
 				</p>
 
-<p>For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview">here</a>.
-
-</p>
+<p>For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview">here</a>.</p>
 
     </div>
   </li>
