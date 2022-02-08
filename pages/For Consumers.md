@@ -32,7 +32,7 @@ description: This is to test, should always include this for SEO
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-      <p>Kindly fill up this form  <insert link to form> to provide details about cases of alleged profiteering or unjustified price increases of essentials. </p>
+      <p>Kindly fill up this form  -insert link to form- to provide details about cases of alleged profiteering or unjustified price increases of essentials. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in alleged profiteering or unjustified price increases. </p>
     </div>
   </li>
@@ -41,7 +41,7 @@ description: This is to test, should always include this for SEO
     <input type="checkbox" id="accordion4">
     <label for="accordion4">What support can I get to cope with rising prices?</label>
     <div>
-      <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more here <insert link to downloadable infographic “Support for Singaporeans” under Resources>  </p>
+      <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more here [Example Filename](/files/infographics/Mitigating%20Inflation%20Pressures%20Infographic.pdf)  </p>
     </div>
   </li>
 	
