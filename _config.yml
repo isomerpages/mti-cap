@@ -2,19 +2,19 @@ title: Committee Against Profiteering (CAP)
 url: ""
 favicon: /images/logo_short.JPG
 colors:
-  primary-color: "#2831ca"
-  secondary-color: "#1410ce"
+  primary-color: "#458cee"
+  secondary-color: "#1a0a53"
   media-colors:
     - title: media-color-one
-      color: "#5b82ec"
+      color: "#77d7ed"
     - title: media-color-two
-      color: "#000000"
+      color: "#0b95a4"
     - title: media-color-three
-      color: "#000000"
+      color: "#9155ad"
     - title: media-color-four
-      color: "#00838f"
+      color: "#8d77ed"
     - title: media-color-five
-      color: "#6031b6"
+      color: "#4722c8"
 resources_name: resource
 description: An Isomer site of the Singapore Government
 permalink: none
