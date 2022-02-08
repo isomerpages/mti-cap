@@ -16,12 +16,6 @@ sections:
         - title: For businesses
           description: Page A is important too
           url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: What is CAP?
       subtitle: About
