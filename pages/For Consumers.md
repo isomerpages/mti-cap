@@ -46,3 +46,5 @@ description: This is to test, should always include this for SEO
   </li>
 	
 	</ul>
+	
+	 [filename](/files/infographics/Mitigating%20Inflation%20Pressures%20Infographic.pdf) 
