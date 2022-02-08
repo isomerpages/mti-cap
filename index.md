@@ -17,7 +17,7 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: '"What is The Committee Against GST Profiteering (CAP)?'
+      title: What is The Committee Against GST Profiteering (CAP)?
       subtitle: About
       button: Learn more
       url: /testing-page
