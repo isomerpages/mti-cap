@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: For consumers
           description: ""
-          url: ""
+          url: /forconsumers
         - title: For business owners
           description: ""
           url: ""
