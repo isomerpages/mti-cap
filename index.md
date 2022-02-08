@@ -10,10 +10,10 @@ sections:
       background: /images/hi-resolution/hero1.jpg
       url: /contact-us/
       key_highlights:
-        - title: For consumer
+        - title: For consumers
           description: ""
           url: ""
-        - title: For businesses owners
+        - title: For business owners
           description: ""
           url: ""
   - infobar:
