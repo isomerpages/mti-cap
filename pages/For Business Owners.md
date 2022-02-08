@@ -48,7 +48,7 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">What support can I get to cope with rising costs? </label>
     <div>
-      <p>The Government continues to extend support to businesses to defray operating costs. Read more here <insert link to downloadable infographic “Support for Businesses” under Resources>
+      <p>The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://go.gov.sg/469pwq">here</a>. 
 				</p>
 
 <p>For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation [here](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview)
