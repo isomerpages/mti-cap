@@ -21,6 +21,9 @@ sections:
       subtitle: About
       button: Learn more
       url: /testing-page
+      description: The Committee Against GST Profiteering (CAP) investigates feedback
+        on alleged profiteering or unjustified price increases of  essential
+        products and services...
   - infobar:
       title: Share your Feedback
       description: Provide details about cases of alleged profiteering or unjustified
