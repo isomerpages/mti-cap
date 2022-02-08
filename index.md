@@ -11,21 +11,21 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: For consumer
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: For businesses
-          description: Page A is important too
-          url: /privacy/
+          description: ""
+          url: ""
+        - title: For businesses owners
+          description: ""
+          url: ""
   - infobar:
       title: What is CAP?
       subtitle: About
-      description: About a sentence worth of description here
       button: Learn more
       url: /testing-page
   - infobar:
       title: Share your Feedback
       subtitle: Feedback
-      description: If you suspect xxx
+      description: Provide details about cases of alleged profiteering or unjustified
+        price increases of  essentials.
       button: Feedback Form
       url: /faq
   - infopic:
@@ -34,21 +34,14 @@ sections:
       button: Button Text
       image: /images/infographics_whypricesgoup.png
       alt: Image alt text
-  - infopic:
-      title: Ways to mitigate price increase
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Find out more
-      url: \permalink
-      alt: Image alt text
-      image: /images/infographics_mitigateprice.png
   - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: Resources
+      subtitle: Media
+      button: Find Out More
   - infopic:
       title: Price Kaki App
-      description: Please click
+      description: "Compare and contribute in-store prices of groceries, household
+        items and hawker food. "
       button: Download Now
       url: https://www.google.com/
       image: /images/infographics_mitigateprice.png
