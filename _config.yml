@@ -3,7 +3,7 @@ url: ""
 favicon: /images/logo_short.JPG
 colors:
   primary-color: "#ffffff"
-  secondary-color: "#000000"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#5b82ec"
