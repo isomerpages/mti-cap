@@ -39,7 +39,7 @@ sections:
       description: "Compare and contribute in-store prices of groceries, household
         items and hawker food. "
       button: Download Now
-      url: https://www.google.com/
+      url: https://m.facebook.com/pricekaki/
       image: /images/infographics_mitigateprice.png
       alt: Price Kaki App
 ---
