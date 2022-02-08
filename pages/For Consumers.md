@@ -7,7 +7,7 @@ description: This is to test, should always include this for SEO
 ---
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion2">
+    <input type="checkbox" id="accordion1">
     <label for="accordion1">What is considered an unjustified price increase?</label>
     <div>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
