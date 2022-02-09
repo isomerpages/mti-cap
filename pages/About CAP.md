@@ -11,8 +11,6 @@ The Committee Against GST Profiteering (CAP) was reconvened on XX February 2022,
 
 CAP was first set up in 1994 with the introduction of GST, and was reconvened during previous rounds of GST increases in 2003 and 2007. The present committee comprises Members of Parliament (MPs), and representatives from the industry and grassroots organisations. 
 
-![Alt text for image on Isomer site](/images/hi-resolution/whatiscap.jpg)
-
 **Members of CAP 2022**
 
 -To insert CAP Composition once firmed up-
