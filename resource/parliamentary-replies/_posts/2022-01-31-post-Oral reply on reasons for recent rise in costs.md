@@ -5,7 +5,4 @@ permalink: /resource/parliamentary-replies/permalink
 date: 2022-01-31
 description: ""
 ---
-
-
-
-Lorem ipsum sit amet
+[More info](https://sprs.parl.gov.sg/search/sprs3topic?reportid=oral-answer-2669)
