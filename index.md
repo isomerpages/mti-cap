@@ -35,12 +35,10 @@ sections:
       description: Looking for more resources? Read on for additional information.
       button: FIND OUT MORE
       url: /resource
-  - infopic:
+  - infobar:
       title: Price Kaki App
       description: Price Kaki allows you to compare and contribute In-store prices of
         groceries, household items and hawker foods.
       button: Download Now
       url: https://m.facebook.com/pricekaki/
-      alt: Image alt text
-      image: /images/pricekaki.jpg
 ---
