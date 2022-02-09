@@ -32,7 +32,6 @@ sections:
       url: /faq
   - resources:
       title: Resources
-      subtitle: Media
       button: Find Out More
   - infopic:
       title: Price Kaki App
