@@ -41,7 +41,7 @@ description: This is to test, should always include this for SEO
     <input type="checkbox" id="accordion4">
     <label for="accordion4">What support can I get to cope with rising prices?</label>
     <div>
-      <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/ge62mr">here</a>. </p>
+      <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more [here](/resource/infographics/mitigatinginflationpressures). </p>
     </div>
   </li>
 	
