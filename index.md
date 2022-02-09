@@ -42,4 +42,5 @@ sections:
       button: Download Now
       url: https://m.facebook.com/pricekaki/
       alt: Image alt text
+      image: /images/pricekaki.jpg
 ---
