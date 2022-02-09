@@ -9,4 +9,4 @@ description: ""
 
 [Understanding Inflation](/files/infographics/Understanding_Inflation_24Jan22_v3.pdf)
 
-[Support for Businesses](/images/infographics/SM-4.jpg)
+[Support for Businesses](/files/infographics/Support%20for%20Businesses.pdf)
