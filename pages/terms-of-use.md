@@ -27,6 +27,4 @@ Internet communications may be susceptible to interference or interception by th
 
 We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other Internet site is at your own risk. If you create a link or frame to The Website, you do so at your own risk.
 
-We reserve the right to object or disable any link or frame to or from The Website.
-About Us About MTI
-About Us
+We reserve the right to object or disable any link or frame  from The Website.
