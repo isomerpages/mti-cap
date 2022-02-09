@@ -5,8 +5,6 @@ date: 2022-02-08
 layout: post
 description: ""
 ---
-[Mitigating Inflation Pressures Infographic](/files/infographics/Mitigating%20Inflation%20Pressures%20Infographic.pdf)
+![Alt text for image on Isomer site](/images/infographics/SM-4.jpg)
 
-[Understanding Inflation](/files/infographics/Understanding_Inflation_24Jan22_v3.pdf)
-
-[Support for Businesses](/files/infographics/Support%20for%20Businesses.pdf)
+[Click here to download](/files/infographics/Support%20for%20Businesses.pdf)
