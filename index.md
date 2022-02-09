@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Committee Against Profiteering (CAP)
+title: Committee Against GST Profiteering (CAP)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -34,3 +34,4 @@ sections:
       title: Resources
       button: Find Out More
 ---
+
