@@ -25,7 +25,7 @@ sections:
         price increases of essentials, using the upcoming GST increase as an
         excuse.
   - infobar:
-      title: Share your Feedback
+      title: Share Your Feedback
       description: Provide details about cases of alleged profiteering or unjustified
         price increases of  essentials.
       button: Feedback Form
@@ -34,4 +34,3 @@ sections:
       title: Resources
       button: Find Out More
 ---
-
