@@ -18,7 +18,7 @@ description: This is to test, should always include this for SEO
     <input type="checkbox" id="accordion2">
     <label for="accordion2">What can I do if I come across a business that has raised prices unjustifiably?</label>
     <div>
-      <p>Raise the matter to the Committee Against GST Profiteering immediately. The Committee Against GST Profiteering takes feedback on alleged profiteering or unjustified price increases of  essentials, seriously. </p>
+      <p>Raise the matter to the Committee Against GST Profiteering (CAP) immediately. CAP takes feedback on alleged profiteering or unjustified price increases of essentials, seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
 				<br>
   •	Details of the business, including name and exact location
@@ -46,4 +46,3 @@ description: This is to test, should always include this for SEO
   </li>
 	
 	</ul>
-
