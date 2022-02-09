@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hi-resolution/hero1.jpg
+      background: /images/HomeBanner1.JPG
       url: /contact-us/
       key_highlights:
         - title: For consumers
@@ -16,6 +16,7 @@ sections:
         - title: For business owners
           description: ""
           url: /forbusinessowners
+      title: Committee Against Profiteering
   - infobar:
       title: What is The Committee Against GST Profiteering (CAP)?
       subtitle: About
