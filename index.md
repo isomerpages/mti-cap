@@ -33,4 +33,9 @@ sections:
   - resources:
       title: Resources
       button: Find Out More
+  - infobar:
+      title: Resources
+      description: Looking for more resources? Read on for additional information.
+      button: FIND OUT MORE
+      url: /resource
 ---
