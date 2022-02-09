@@ -18,7 +18,7 @@ sections:
           url: /forbusinessowners
       title: Committee Against GST Profiteering
   - infobar:
-      title: What is The Committee Against GST Profiteering (CAP)?
+      title: About the Committee Against GST Profiteering (CAP)
       button: Learn more
       url: /aboutcap
       description: CAP investigates feedback on alleged profiteering or unjustified
