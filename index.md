@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HomeBanner1.JPG
+      background: /images/hi-resolution/Masthead%2001.jpg
       url: /contact-us/
       key_highlights:
         - title: For consumers
