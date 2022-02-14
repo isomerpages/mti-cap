@@ -53,8 +53,7 @@ description: This is to test, should always include this for SEO
 				<br>
   •	Details of the business, including name and exact location
 				<br>
-  •	Details of the specific product and price increase</p>
-
+  •	TEST</p>
     </div>
   </li>
 	</ul>
