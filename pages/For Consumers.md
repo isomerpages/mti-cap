@@ -45,8 +45,8 @@ description: This is to test, should always include this for SEO
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">TEST</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">TEST</label>
     <div>
       <p>Raise the matter to the Committee Against GST Profiteering (CAP) immediately. CAP takes feedback on alleged profiteering or unjustified price increases of essentials, seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
