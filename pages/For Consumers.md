@@ -44,16 +44,4 @@ description: This is to test, should always include this for SEO
       <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5">here</a>. </p>
     </div>
   </li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">TEST</label>
-    <div>
-      <p>Raise the matter to the Committee Against GST Profiteering (CAP) immediately. CAP takes feedback on alleged profiteering or unjustified price increases of essentials, seriously. </p>
-      <p>Help us identify errant businesses by providing us with detailed information, including the following:
-				<br>
-  •	Details of the business, including name and exact location
-				<br>
-  •	TEST</p>
-    </div>
-  </li>
 	</ul>
