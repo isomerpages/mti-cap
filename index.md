@@ -29,7 +29,7 @@ sections:
       description: Provide details about cases of alleged profiteering or unjustified
         price increases of  essentials.
       button: Feedback Form
-      url: /faq
+      url: /permalink
   - infobar:
       title: Resources
       description: Looking for more resources? Read on for additional information.
