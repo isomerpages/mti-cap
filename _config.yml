@@ -3,10 +3,10 @@ url: ""
 favicon: /images/logo_short.JPG
 colors:
   primary-color: "#5f27df"
-  secondary-color: "#806fbc"
+  secondary-color: "#d3c5ff"
   media-colors:
     - title: media-color-one
-      color: "#806fbc"
+      color: "#5f27df"
     - title: media-color-two
       color: "#5f27df"
     - title: media-color-three
