@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#806fbc"
     - title: media-color-two
-      color: "#b3a7d8"
+      color: "#5f27df"
     - title: media-color-three
       color: "#806fbc"
     - title: media-color-four
-      color: "#b3a7d8"
+      color: "#5f27df"
     - title: media-color-five
       color: "#806fbc"
 resources_name: resource
