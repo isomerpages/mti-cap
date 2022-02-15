@@ -2,19 +2,19 @@ title: Committee Against GST Profiteering (CAP)
 url: ""
 favicon: /images/logo_short.JPG
 colors:
-  primary-color: "#458cee"
-  secondary-color: "#1a0a53"
+  primary-color: "#5f27df"
+  secondary-color: "#d3c5ff"
   media-colors:
     - title: media-color-one
-      color: "#4722c8"
+      color: "#b3a7d8"
     - title: media-color-two
-      color: "#8d77ed"
+      color: "#806fbc"
     - title: media-color-three
-      color: "#9155ad"
+      color: "###9155ad"
     - title: media-color-four
-      color: "#0b95a4"
+      color: "##0b95a4"
     - title: media-color-five
-      color: "#77d7ed"
+      color: "##77d7ed"
 resources_name: resource
 description: An Isomer site of the Singapore Government
 permalink: none
