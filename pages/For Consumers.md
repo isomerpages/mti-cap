@@ -2,7 +2,6 @@
 title: For Consumers
 permalink: /forconsumers
 date: 2022-02-03
-layout: post
 description: This is to test, should always include this for SEO
 ---
 <ul class="jekyllcodex_accordion">
