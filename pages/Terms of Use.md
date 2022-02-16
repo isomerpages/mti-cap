@@ -38,4 +38,4 @@ We reserve the right to object or disable any link or frame from The Website.
 ##### 7. Please contact <a href="mailto:ITSupport@cap.gov.sg">ITSupport@cap.gov.sg</a> if you: 
 
 *	Have any enquires or feedback on our data protection policies and procedures; or <br>
-*	Wish to provide details about cases of unjustified price increases please use the feedback form
+*	Wish to provide details about cases of unjustified price increases please use the <a href="">feedback form</a>
