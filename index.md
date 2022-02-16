@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Committee Against GST Profiteering (CAP)
+title: Committee Against Profiteering (CAP)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -42,3 +42,4 @@ sections:
       button: Download Now
       url: https://m.facebook.com/pricekaki/
 ---
+
