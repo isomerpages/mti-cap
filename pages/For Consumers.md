@@ -6,24 +6,24 @@ description: Provide feedback on unjustified price increases of essential
   products and services, using the upcoming GST increase as an excuse.
 layout: post
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What is considered an unjustified price increase?</label>
+    <label for="accordion1">What cases will the CAP investigate?</label>
     <div>
+      <p>The CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as an excuse. </p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
-      <p>A price increase is considered to be unjustified when a business is unable to provide reasonable explanations behind a sudden increase in the pricing of essential products and services, such as an excessive increase in prices on the pretext of the upcoming rise in Goods and Services Tax (GST).</p>
+			<p>When a business raises its prices, it should be upfront and transparent with consumers about its actions and its pricing rationale. It is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">What can I do if I come across a business that has raised prices unjustifiably?</label>
+    <label for="accordion2">What can I do if I come across a business that has raised prices using the GST increase as a cover?</label>
     <div>
-      <p>Raise the matter to the Committee Against GST Profiteering (CAP) immediately. CAP takes feedback on alleged profiteering or unjustified price increases of essentials, seriously. </p>
+      <p>Raise the matter to the Committee Against Profiteering (CAP). CAP takes feedback on unjustified price increases of essentials, seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
 				<br>
-  •	Details of the business, including name and exact location
+  •	Details of the business, including name and location
 				<br>
   •	Details of the specific product and price increase</p>
 
@@ -34,16 +34,40 @@ layout: post
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-      <p>Kindly fill up this form  -insert link to form- to provide details about cases of alleged profiteering or unjustified price increases of essentials. </p>
-      <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in alleged profiteering or unjustified price increases. </p>
+      <p>Kindly fill up this form  to provide details about cases of unjustified price increases of essentials. </p>
+      <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
 	
 		<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">What support can I get to cope with rising prices?</label>
+    <label for="accordion4">I need help filling up the feedback form. What can I do?</label>
     <div>
-      <p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5">here</a>. </p>
+			<p>You can visit any of the People Association’s Community Clubs/Centres (www.pa.gov.sg) or call xxxx xxxx.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How will the CAP follow up on the feedback raised?</label>
+    <div>
+			<p>CAP works closely with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the Consumers Association of Singapore (CASE) and the People’s Association (PA) to assess the feedback provided on unjustified price increases, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
+      <p>As part of the investigation process, CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes GST profiteering. CAP may make public errant businesses that seek to profiteer on the pretext of the GST increase.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion6">
+			<label for="accordion6">What support can I get to cope with rising prices?</label>
+    <div>
+			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5">here</a> . </p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion7">
+			<label for="accordion7">I received an Email/SMS from CAP. How do I know it is genuine? </label>
+    <div>
+			<p>There will be an acknowledgement Email and SMS to those who provide their feedback through the Feedback Form . CAP will only contact you via our official Email address with the domain “@cap.gov.sg”, if follow-ups are required. </p>
+			<p>If you had requested a call-back, CAP will not ask for your personal details over the phone. </p>
+			<p>A representative from the People’s Association may also approach you for further clarifications. If approached, always request for official identification.</p>
     </div>
   </li>
 	</ul>
