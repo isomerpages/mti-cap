@@ -1,11 +1,9 @@
 ---
 title: About CAP
 permalink: /aboutcap
-date: 2022-02-08
 description: "CAP investigates feedback on unjustified price increases of
   essential products and services, using the upcoming GST increase as an excuse.
   "
-layout: post
 ---
 **What is CAP?**
 
