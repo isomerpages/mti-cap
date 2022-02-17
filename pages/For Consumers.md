@@ -1,10 +1,8 @@
 ---
 title: For Consumers
 permalink: /forconsumers
-date: 2022-02-03
 description: Provide feedback on unjustified price increases of essential
   products and services, using the upcoming GST increase as an excuse.
-layout: post
 ---
 <ul class="jekyllcodex_accordion">
   <li>
