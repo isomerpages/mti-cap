@@ -1,11 +1,9 @@
 ---
 title: Contact Us
 permalink: /contactus
-date: 2022-02-09
 description: "If you encounter any business involved unjustifiable price
   increases on the pretext of the upcoming GST increase, please bring it to our
   attention. "
-layout: post
 ---
 
 
