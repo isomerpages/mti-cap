@@ -5,45 +5,67 @@ date: 2022-02-08
 description: "Learn more about CAP and how it can work with businesses.  "
 layout: post
 ---
-
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What is considered an unjustified price increase?</label>
+    <label for="accordion1">What cases will the CAP investigate? </label>
     <div>
-      <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials.  
+      <p>The CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as an excuse. 
 			</p>
-      <p>A price increase is considered to be unjustified when a business is unable to provide reasonable explanations behind a sudden increase in the pricing of  essential products and services, such as an excessive increase in prices on the pretext of the upcoming rise in Goods and Services Tax (GST).
+      <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
+			</p>
+			<p>A price increase is considered to be unjustified when a business raises its price by more than the increase in GST, and attributes the price increase solely to the GST increase.</p>
+			<p>When a business raises its prices, it should be upfront and transparent with consumers about its actions and its pricing rationale. It is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.
 			</p>
     </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">What should I consider before increasing prices? </label>
+    <label for="accordion2">How should I explain a price increase? </label>
     <div>
-      <p>You must be able to provide reasonable explanations behind the price increase and its quantum. Any unjustified price increase or profiteering acts, such as an excessive increase on the pretext of the upcoming rise in Goods and Services Tax (GST) may be subjected to actions taken by the Committee Against GST Profiteering. 
+      <p>Businesses should be transparent with their prices. Sharing the following information will help consumers understand the reasons of your price increase:
+			</p>
+			<p>
+				•	Why are you raising your prices?
+				•	What is the effective date of the price increase?
+				•	What is the price before and after the price increase?
+			</p>
+			<p>
+				You must not misrepresent the reasons for any price increase as this will mislead consumers and go against the principles of transparency and a level playing field.
+
+Read more on what businesses can do or should avoid.
 			</p>
     </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">How should I explain a price increase?</label>
+    <label for="accordion3">What support can I get to cope with rising costs?</label>
     <div>
-      <p>Sharing the following information will be helpful: <br>	
-						•	Why are you raising your prices?<br>
-						•	When was the last time you increased your prices?<br>
-						•	What is the increase in prices relative to the rise in operating costs? <br>
+      <p>
+				The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://go.gov.sg/469pwq" target="_blank">here</a>. 
+			</p>
+			<p>
+				For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview" target="_blank">here</a>.
+			</p>
+			<p>
+				You may also approach your representative body such as trade associations to find out more about the support available for your industry, or if you wish to provide feedback on support for businesses.
 			</p>
 	</div>
 </li>
 			
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Who can I speak with for more information? </label>
+    <label for="accordion4">I received an Email/SMS from CAP. How do I know it is genuine? </label>
     <div>
-      <p>You can approach your trade association to find out more about related best practices. 
+      <p>CAP will never call or email you directly. Should you receive any suspicious call or Email, do report to the Singapore Police Force.  
+			</p>
+			<p>
+				Some businesses may receive Emails from the Consumers Association of Singapore.  (CASE) via CASE’s official Email address with the domain “@case.org.sg”. CASE will not ask for your personal details over the phone. 
+			</p>
+			<p>
+				A representative from the People’s Association may also approach you for further clarifications. If approached, always request for official identification.
 			</p>
     </div>
 </li>
