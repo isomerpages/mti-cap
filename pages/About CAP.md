@@ -19,7 +19,7 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 
 **What does CAP do?**
 
-The CAP keeps a close watch on the prices of essential goods (e.g. rice, chicken and bread, amongst other common items we consume) and will review and investigate feedback on unjustified price increases of essential products and services attributing it to the GST increase.
+CAP keeps a close watch on the prices of essential goods (e.g. rice, chicken and bread, amongst other common items we consume) and will review and investigate feedback on unjustified price increases of essential products and services attributing it to the GST increase.
 
 **How does CAP carry out an investigation?**
 
