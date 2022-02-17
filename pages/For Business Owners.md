@@ -27,8 +27,8 @@ layout: post
       <p>Businesses should be transparent with their prices. Sharing the following information will help consumers understand the reasons of your price increase:
 			</p>
 			<p>
-				•	Why are you raising your prices?
-				•	What is the effective date of the price increase?
+				•	Why are you raising your prices?<br>
+				•	What is the effective date of the price increase?<br>
 				•	What is the price before and after the price increase?
 			</p>
 			<p>
