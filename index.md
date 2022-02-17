@@ -18,7 +18,7 @@ sections:
           url: /forbusinessowners
       title: Committee Against Profiteering
   - infobar:
-      title: About the Committee Against GST Profiteering (CAP)
+      title: About the Committee Against Profiteering (CAP)
       button: Learn more
       url: /aboutcap
       description: CAP investigates feedback on alleged profiteering or unjustified
@@ -35,11 +35,4 @@ sections:
       description: Looking for more resources? Read on for additional information.
       button: FIND OUT MORE
       url: /resource
-  - infobar:
-      title: Price Kaki App
-      description: Price Kaki allows you to compare and contribute In-store prices of
-        groceries, household items and hawker foods.
-      button: Download Now
-      url: https://m.facebook.com/pricekaki/
 ---
-
