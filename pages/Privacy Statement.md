@@ -1,8 +1,6 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
-date: 2022-02-16
-layout: post
 description: Contact the administrator if you have enquires or feedback on our
   data protection policies and procedures.
 ---
