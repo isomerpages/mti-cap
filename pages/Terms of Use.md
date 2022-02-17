@@ -1,8 +1,6 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
-date: 2022-02-16
-layout: post
 description: All access of any area of www.cap.gov.sg is governed by the terms
   and conditions listed on the page. Continue only if you accept the terms.
 ---
