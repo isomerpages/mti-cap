@@ -26,7 +26,7 @@ sections:
   - infobar:
       title: Share Your Feedback
       description: Provide details about cases of unjustified price increases of
-        essentials using the GST increase as an excuse, for the CAP’s review.
+        essentials using the GST increase as an excuse, for CAP’s review.
       button: Feedback Form
       url: /permalink
   - infobar:
