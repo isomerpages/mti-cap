@@ -8,7 +8,7 @@ layout: post
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What cases will the CAP investigate? </label>
+    <label for="accordion1">What cases will CAP investigate? </label>
     <div>
       <p>CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as an excuse. 
 			</p>
