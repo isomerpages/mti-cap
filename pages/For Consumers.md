@@ -34,7 +34,7 @@ layout: post
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-      <p>Kindly fill up this form  to provide details about cases of unjustified price increases of essentials. </p>
+			<p>Kindly fill up this <a href="" target="_blank">form</a>  to provide details about cases of unjustified price increases of essentials. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
@@ -43,7 +43,7 @@ layout: post
     <input type="checkbox" id="accordion4">
     <label for="accordion4">I need help filling up the feedback form. What can I do?</label>
     <div>
-			<p>You can visit any of the People Association’s Community Clubs/Centres (www.pa.gov.sg) or call xxxx xxxx.</p>
+			<p>You can visit any of the People Association’s Community Clubs/Centres (<a href="https://www.pa.gov.sg" target="_blank">www.pa.gov.sg</a>) or call xxxx xxxx.</p>
     </div>
   </li>
 	<li>
@@ -58,7 +58,7 @@ layout: post
     <input type="checkbox" id="accordion6">
 			<label for="accordion6">What support can I get to cope with rising prices?</label>
     <div>
-			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5">here</a> . </p>
+			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5" target="_blank">here</a> . </p>
     </div>
   </li>
 	<li>
