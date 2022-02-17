@@ -14,7 +14,6 @@ layout: post
 			</p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
 			</p>
-			<p>A price increase is considered to be unjustified when a business raises its price by more than the increase in GST, and attributes the price increase solely to the GST increase.</p>
 			<p>When a business raises its prices, it should be upfront and transparent with consumers about its actions and its pricing rationale. It is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.
 			</p>
     </div>
