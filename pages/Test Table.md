@@ -3,8 +3,6 @@ title: Test Table
 permalink: /testtable
 description: ""
 ---
-
-
 | Name | Designation | Column 3 |
 | -------- | -------- | -------- |
 | Vivian Quek     | SAD/CED     | Text     |
