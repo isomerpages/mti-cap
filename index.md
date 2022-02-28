@@ -28,7 +28,7 @@ sections:
       description: Provide details about cases of unjustified price increases of
         essentials using the GST increase as an excuse, for CAP’s review.
       button: Feedback Form
-      url: h_ttps://form.gov.sg/#!/61d7bd7e6c60da0012ba2383
+      url: https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383
   - infobar:
       title: Resources
       description: Looking for additional CAP and related information?
