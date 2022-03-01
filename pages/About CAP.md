@@ -27,7 +27,7 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 8.	<b>Mr Lim Hock Chee,</b> CEO, Sheng Siong Group<br>
 9.	<b>Mr Yeo Hiang Meng,</b> President, The Federation of Merchants’ Associations, Singapore<br>
 10.	<b>Mr Andrew Kwan,</b> President, Restaurant Association of Singapore<br>
-11.	<b>Mr David Tan, <.b>President, Singapore Food Manufacturers’ Association<br>
+11.	<b>Mr David Tan, </b>President, Singapore Food Manufacturers’ Association<br>
 12.	<b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
 13.	<b>Mr R. Dhinakaran,</b> President, Singapore Retailers Association<br>
 14.	<b>Mr Lam Yi Young,</b> CEO, Singapore Business Federation<br>
