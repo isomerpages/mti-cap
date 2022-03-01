@@ -13,7 +13,25 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 
 **Members of CAP 2022**
 
--To insert CAP Composition once firmed up-
+<u>Chairperson</u>
+1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
+<br>
+
+<u>Members</u><br>
+2.	<b>Ms Hazel Poa, </b>Non-Constituency Member of Parliament<br>
+3.	<LO’s Nominee, pending confirmation><br>
+4.	<b>Mr Melvin Yong, </b>President, CASE / MP for Radin Mas<br>
+5.	<b>Mdm Amatul Jameel Suhani,</b> Chairperson, People’s Association Malay Activity Executive Committees Council<br>
+6.	<b>Mr Seah Kian Peng,</b> Group CEO, NTUC Fairprice/ MP for Marine Parade<br>
+7.	<b>Mr Loh Wee Lee,</b> CEO, Lazada Singapore<br>
+8.	<b>Mr Lim Hock Chee,</b> CEO, Sheng Siong Group<br>
+9.	<b>Mr Yeo Hiang Meng,</b> President, The Federation of Merchants’ Associations, Singapore<br>
+10.	<b>Mr Andrew Kwan,</b> President, Restaurant Association of Singapore<br>
+11.	<b>Mr David Tan, <.b>President, Singapore Food Manufacturers’ Association<br>
+12.	<b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
+13.	<b>Mr R. Dhinakaran,</b> President, Singapore Retailers Association<br>
+14.	<b>Mr Lam Yi Young,</b> CEO, Singapore Business Federation<br>
+
 
 **What does CAP do?**
 
