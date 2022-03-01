@@ -12,7 +12,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			</p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
 			</p>
-			<p>When a business raises its prices, it should be upfront and transparent with consumers about its actions and its pricing rationale. It is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.
+			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.
 			</p>
     </div>
 </li>
@@ -29,7 +29,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 				•	What is the price before and after the price increase?
 			</p>
 			<p>
-				You must not misrepresent the reasons for any price increase as this will mislead consumers and go against the principles of transparency and a level playing field.
+				You must not misrepresent the reasons for any price increase as this will mislead consumers.
 
 Read more on what businesses can do or should avoid.
 			</p>
