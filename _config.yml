@@ -16,7 +16,9 @@ colors:
     - title: media-color-five
       color: "#806fbc"
 resources_name: resource
-description: An Isomer site of the Singapore Government
+description: "CAP investigates feedback on unjustified price increases of
+  essential products and services, using the upcoming GST increase as an excuse.
+  "
 permalink: none
 baseurl: ""
 exclude:
