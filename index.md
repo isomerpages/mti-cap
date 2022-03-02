@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Committee Against Profiteering (CAP)
-description: Brief site description here
+description: "CAP investigates feedback on unjustified price increases of
+  essential products and services, using the upcoming GST increase as an excuse.
+  "
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -35,3 +37,4 @@ sections:
       button: FIND OUT MORE
       url: /resource
 ---
+
