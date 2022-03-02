@@ -18,7 +18,7 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 <br>
 
 <u>Members</u><br>
-2. <b>Ms Hazel Poa, </b>Non-Constituency Member of Parliament<br>
+2\. <b>Ms Hazel Poa, </b>Non-Constituency Member of Parliament<br>
 3. <b>Mr Melvin Yong, </b>President, CASE / MP for Radin Mas<br>
 4. <b>Mdm Amatul Jameel Suhani,</b> Chairperson, People’s Association Malay Activity Executive Committees Council<br>
 5.	<b>Mr Seah Kian Peng,</b> Group CEO, NTUC Fairprice/ MP for Marine Parade<br>
