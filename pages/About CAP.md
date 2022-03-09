@@ -15,7 +15,6 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 
 <u>Chairperson</u>
 1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
-<br>
 
 <u>Members</u><br>
 2\. <b>Ms Hazel Poa, </b>Non-Constituency Member of Parliament<br>
