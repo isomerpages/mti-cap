@@ -8,11 +8,11 @@ description: "Learn more about CAP and how it can work with businesses.  "
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What cases will CAP investigate? </label>
     <div>
-      <p>CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as an excuse. 
+      <p>CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as a cover. 
 			</p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
 			</p>
-			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as an excuse for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after implementation, citing the GST as the reason.
+			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the implementation, nor is it acceptable for a business to raise prices by more than the GST after the implementation, citing the GST as the reason.
 			</p>
     </div>
 </li>
