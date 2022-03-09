@@ -37,4 +37,3 @@ sections:
       button: FIND OUT MORE
       url: /resource
 ---
-
