@@ -31,10 +31,10 @@ CAP was first set up in 1994 with the introduction of GST, and was reconvened du
 
 **What does CAP do?**
 
-CAP keeps a close watch on the prices of essential goods (e.g. rice, chicken and bread, amongst other common items we consume) and will review and investigate feedback on unjustified price increases of essential products and services using the GST increase as a cover.
+CAP keeps a close watch on the prices of essential goods (e.g. rice, chicken and bread, amongst other common items we consume), and will review and investigate feedback on unjustified price increases of essential products and services using the GST increase as a cover.
 
 **How does CAP carry out an investigation?**
 
-CAP will work with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the Consumers Association of Singapore (CASE) and the People’s Association (PA), to assess feedback provided in relation to unjustified price increases and engage with the relevant businesses where necessary.
+CAP will work with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the Consumers Association of Singapore (CASE) and the People’s Association (PA), to assess feedback provided in relation to unjustified price increases using the GST increase as cover, and engage with the relevant businesses where necessary.
 
 As part of the investigation process, CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes profiteering. CAP may make public errant businesses that seek to profiteer on the pretext of the GST increase.
