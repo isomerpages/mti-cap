@@ -30,8 +30,6 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			</p>
 			<p>
 				You must not misrepresent the reasons for any price increase as this will mislead consumers.
-
-Read more on what businesses can do or should avoid.
 			</p>
     </div>
 </li>
