@@ -53,7 +53,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion6">
 			<label for="accordion6">What support can I get to cope with rising prices?</label>
     <div>
-			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://go.gov.sg/gmtmd5" target="_blank">here</a> . </p>
+			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/resources/support-for-households" target="_blank">here</a> . </p>
     </div>
   </li>
 	<li>
