@@ -39,7 +39,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
     <label for="accordion3">What support can I get to cope with rising costs?</label>
     <div>
       <p>
-				The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://go.gov.sg/469pwq" target="_blank">here</a>. 
+				The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://www.mti.gov.sg/COS-2022/Factsheets-on-Key-Announcements" target="_blank">here</a>. 
 			</p>
 			<p>
 				For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview" target="_blank">here</a>.
