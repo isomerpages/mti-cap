@@ -11,7 +11,7 @@ description: Provide feedback on unjustified price increases of essential
     <div>
       <p>The CAP will investigate all allegations of unjustified price increases, using the Goods and Services Tax (GST) as a cover. </p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
-			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the implementation, nor is it acceptable for a business to raise prices by more than the GST after the implementation, citing the GST as the reason.</p>
+			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
     </div>
   </li>
 	<li>
