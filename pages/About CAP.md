@@ -6,7 +6,7 @@ description: "CAP investigates feedback on unjustified price increases of
 ---
 **What is CAP?**
 
-The Committee Against Profiteering (CAP) was reconvened on 16 March 2022, to investigate feedback on unjustified price increases of  essential products and services, using the upcoming Goods and Services Tax (GST) increase as a cover. 
+The Committee Against Profiteering (CAP) was reconvened on 16 March 2022, to investigate feedback on unjustified price increases of  essential products and services, using the Goods and Services Tax (GST) increase as a cover. 
 
 CAP was first set up in 1994 with the introduction of GST, and was reconvened during previous rounds of GST increases in 2003 and 2007. The present committee is chaired by Minister of State for Trade and Industry Ms Low Yen Ling and comprises Members of Parliament (MPs), and representatives from the industry and grassroots organisations.
 
