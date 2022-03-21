@@ -59,6 +59,8 @@ with the domain “@case.org.sg”. A representative from the People’s Associa
 			</p>
 			<p> If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.
 			</p>
+			<p>Should you receive any suspicious call or Email, do report to the Singapore Police Force.
+			</p>
     </div>
 </li>
 </ul>
