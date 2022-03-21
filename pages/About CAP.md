@@ -10,7 +10,7 @@ The CAP was reconvened on 16 March 2022, to investigate feedback on unjustified 
 
 The CAP was first set up in 1994 with the introduction of GST. It was reconvened during previous rounds of GST increases in 2003 and 2007. The present committee is chaired by Minister of State for Trade and Industry Ms Low Yen Ling and comprises Members of Parliament (MPs), and representatives from the industry and grassroots organisations.
 
-**Members of CAP 2022**
+**Members of the CAP**
 
 <u>Chairperson</u>
 1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
