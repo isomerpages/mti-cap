@@ -33,6 +33,8 @@ The CAP was first set up in 1994 with the introduction of GST, and was reconvene
 
 The CAP keeps a close watch on the prices of essential goods (e.g. rice, chicken and bread, amongst other common items we consume), and will review and investigate feedback on unjustified price increases of essential products and services using the GST increase as a cover.
 
+The CAP will not add any regulatory burden on businesses. Its role is to strengthen transparency and enable free market competition to unction as it should. 
+
 **How does CAP carry out an investigation?**
 
 The CAP will work with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess feedback provided in relation to unjustified price increases using the GST increase as a cover, and engage with the relevant businesses where necessary.
