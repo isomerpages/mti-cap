@@ -52,4 +52,3 @@ Members
 **Annex B: Chinese Term for the Committee Against Profiteering**
 
 反牟利委员会
-
