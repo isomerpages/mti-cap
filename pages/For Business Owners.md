@@ -6,9 +6,9 @@ description: "Learn more about CAP and how it can work with businesses.  "
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What cases will CAP investigate? </label>
+    <label for="accordion1">What cases will the Commitee Against Profiteering (CAP) investigate? </label>
     <div>
-      <p>CAP will investigate all allegations of unjustified price increases of essential goods and services, using the Goods and Services Tax (GST) as a cover. 
+      <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services, using the Goods and Services Tax (GST) as a cover. 
 			</p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
 			</p>
@@ -52,7 +52,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">I received an Email/SMS from CAP. How do I know it is genuine? </label>
+    <label for="accordion4">I received an Email/SMS from the CAP. How do I know it is genuine? </label>
     <div>
       <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official Email address
 with the domain “@case.org.sg”. A representative from the People’s Association may also approach you for further clarifications.
