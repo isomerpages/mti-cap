@@ -1,4 +1,6 @@
 collections:
   media-statements:
     output: true
-    order: []
+    order:
+      - Committee Against Profiteering Reconvenes with Meeting of Committee
+        Members.md
