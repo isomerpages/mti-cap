@@ -18,7 +18,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion2">
     <label for="accordion2">What can I do if I come across a business that has raised prices using the GST increase as a cover?</label>
     <div>
-      <p>Raise the matter to the Committee Against Profiteering (CAP). CAP takes feedback on unjustified price increases of essentials using the GST increase as a cover, seriously. </p>
+      <p>Raise the matter to the CAP. The CAP takes feedback on unjustified price increases of essentials using the GST increase as a cover, seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
 				<br>
   •	Details of the business, including name and location
@@ -45,8 +45,8 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How will the CAP follow up on the feedback raised?</label>
     <div>
-			<p>CAP works closely with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases using the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
-      <p>As part of the investigation process, CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes GST profiteering. CAP may make public errant businesses that seek to profiteer on the pretext of the GST increase.</p>
+			<p>The CAP works closely with various agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases using the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
+      <p>As part of the investigation process, the CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes GST profiteering. The CAP may make public errant businesses that seek to profiteer on the pretext of the GST increase.</p>
     </div>
   </li>
 	<li>
@@ -60,7 +60,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion7">
 			<label for="accordion7">I received an Email/SMS from CAP. How do I know it is genuine? </label>
     <div>
-			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. </p>
+			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. </p>
 			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to verify the Response ID of your feedback, or when your call back request was made. </p>
 			<p>A representative from the People’s Association may also approach you for further clarifications. If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.</p>
     	<p>Should you receive any suspicious call or Email, do report to the Singapore Police Force.
