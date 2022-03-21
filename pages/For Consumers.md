@@ -7,7 +7,7 @@ description: Provide feedback on unjustified price increases of essential
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What cases will the CAP investigate?</label>
+    <label for="accordion1">What cases will the Committee Against Profiteering (CAP) investigate?</label>
     <div>
       <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services, using the Goods and Services Tax (GST) as a cover. </p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
