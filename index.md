@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Resources
       description: Looking for additional CAP and related information?
-      button: FIND OUT MORE
+      button: LEARN MORE
       url: /resource
   - infobar:
       title: Scam Alert
