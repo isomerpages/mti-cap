@@ -35,4 +35,9 @@ sections:
       description: Looking for additional CAP and related information?
       button: FIND OUT MORE
       url: /resource
+  - infobar:
+      title: Scam Alert
+      description: Beware of scam calls and scam messages impersonating the CAP
+      button: LEARN MORE
+      url: /scamalert
 ---
