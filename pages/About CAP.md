@@ -31,9 +31,9 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 
 **What does CAP do?**
 
-The CAP will focus on essential food items commonly consumed or used by Singaporean households, such as eggs, chicken vegetables and meals from hawker centres and coffee shops, as well as non-food essentials like household products. It will review and investigate feedback on unjustified price increases of essential products and services that use the GST increase as a cover.
+The CAP will focus on essential food items commonly consumed or used by Singaporean households, such as eggs, chicken, vegetables and meals from hawker centres and coffee shops, as well as non-food essentials like household products. It will review and investigate feedback on unjustified price increases of essential products and services that use the GST increase as a cover.
 
-The CAP will not add any regulatory burden on businesses. Its role is to strengthen transparency and enable free market competition to unction as it should. 
+The CAP will not add any regulatory burden on businesses. Its role is to strengthen transparency and enable free market competition to function as it should. 
 
 **How does CAP carry out an investigation?**
 
