@@ -5,7 +5,7 @@ description: Beware of scam calls and scam messages impersonating the CAP.
 ---
 #### **Scam Alert**
 
-Beware of scam calls, emails and SMSes impersonating the Committee Against Profiteering (CAP). Should you receive any suspicious call or email, do report to the Singapore Police Force. 
+Beware of scam calls, emails and SMSes impersonating the Committee Against Profiteering (CAP). Should you receive any suspicious call or email, do report the case through www.scamalert.sg or the anti-scam hotline at 1800-722-6688. 
 
 ##### 1.   Scam calls/ emails / SMSes made under the guise of the CAP
 
