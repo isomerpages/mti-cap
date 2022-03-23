@@ -9,7 +9,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What cases will the Committee Against Profiteering (CAP) investigate?</label>
     <div>
-      <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services, using the Goods and Services Tax (GST) as a cover. </p>
+      <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services that use the Goods and Services Tax (GST) as a cover. </p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
 			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
     </div>
@@ -30,7 +30,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-			<p>Kindly fill up this <a href="https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essentials using the GST increase as a cover. </p>
+			<p>Kindly fill up this <a href="https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essentials that use the GST increase as a cover. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
