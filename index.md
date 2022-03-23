@@ -31,13 +31,13 @@ sections:
       button: Feedback Form
       url: https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383
   - infobar:
-      title: Scam Alert
-      description: Beware of scam calls, emails and SMSes impersonating the CAP.
-      button: LEARN MORE
-      url: /scamalert
-  - infobar:
       title: Resources
       description: Looking for additional CAP and related information?
       button: LEARN MORE
       url: /resource
+  - infobar:
+      title: Scam Alert
+      description: Beware of scam calls, emails and SMSes impersonating the CAP.
+      button: LEARN MORE
+      url: /scamalert
 ---
