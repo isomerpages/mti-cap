@@ -58,7 +58,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			</p>
 			<p> If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.
 			</p>
-			<p>Should you receive any suspicious call or Email, do report to the Singapore Police Force.
+			<p>Should you receive any suspicious call or email, do report the case through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
 			</p>
     </div>
 </li>
