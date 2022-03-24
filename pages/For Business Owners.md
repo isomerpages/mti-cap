@@ -54,9 +54,9 @@ description: "Learn more about CAP and how it can work with businesses.  "
     <input type="checkbox" id="accordion4">
     <label for="accordion4">I received an email/SMS from the CAP. How do I know it is genuine? </label>
     <div>
-      <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official email address with the domain “@case.org.sg”. A representative from the People’s Association may also approach you for further clarifications.
+      <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official email address with the domain “@case.org.sg”. A representative from the People’s Association (PA) may also approach you for further clarifications.
 			</p>
-			<p> If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.
+			<p>You can contact CASE or PA using the official contact details to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 			</p>
 			<p>Should you receive any suspicious call or email, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
 			</p>
