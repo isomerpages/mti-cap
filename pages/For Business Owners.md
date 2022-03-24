@@ -12,7 +12,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			</p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. 
 			</p>
-			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.
+			<p>If a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.
 			</p>
     </div>
 </li>
@@ -42,7 +42,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 				The Government continues to extend support to businesses to defray operating costs. Read more <a href="https://www.mti.gov.sg/COS-2022/Factsheets-on-Key-Announcements" target="_blank">here</a>. 
 			</p>
 			<p>
-				For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview" target="_blank">here</a>.
+				For a better understanding of the support available to grow your business, reach out to our SME Centres. Book a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview" target="_blank">here</a> or visit<a href="https://www.gobusiness.gov.sg/gov-assist/" target="_blank"> GoBiz GovAssist</a>.
 			</p>
 			<p>
 				You may also approach your representative body such as trade associations to find out more about the support available for your industry, or if you wish to provide feedback on support for businesses.
