@@ -11,13 +11,11 @@ Beware of scam calls, emails and SMSes impersonating the Committee Against Profi
 
 There will be an acknowledgement email and SMS to those who provide their feedback through the the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. 
 
-The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to verify the Response ID of your feedback, or when your call back request was made. 
+The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call back request was made.
 
-A representative from the People’s Association may also approach you for further clarifications.  If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.
+A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact PA using the official contact details  to verify their identity. PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 
 ##### 2.   Scam visits made to businesses under the guise of the CAP
 
 Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official Email address
-with the domain “@case.org.sg”. A representative from the People’s Association may also approach you for further clarifications. 
-
-If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.
+with the domain “@case.org.sg”. A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact CASE or PA using the official contact details to verify their identity. CASE and PA will not send you any email asking you to click on any link or ask for any personal information.
