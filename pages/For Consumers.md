@@ -11,7 +11,7 @@ description: Provide feedback on unjustified price increases of essential
     <div>
       <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services that use the Goods and Services Tax (GST) as a cover. </p>
       <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
-			<p>When a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
+			<p>If a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
     </div>
   </li>
 	<li>
@@ -38,7 +38,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion4">
     <label for="accordion4">I need help filling up the feedback form. What can I do?</label>
     <div>
-			<p>You can visit any of the People Association’s Community Clubs/Centres (<a href="https://www.pa.gov.sg" target="_blank">www.pa.gov.sg</a>) or call 6797 0618.</p>
+			<p>You can visit any of the People's Association Community Clubs/Centres (<a href="https://www.pa.gov.sg" target="_blank">www.pa.gov.sg</a>) or call 6797 0618.</p>
     </div>
   </li>
 	<li>
@@ -60,9 +60,9 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion7">
 			<label for="accordion7">I received an email/SMS from the CAP. How do I know it is genuine? </label>
     <div>
-			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. </p>
-			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to verify the Response ID of your feedback, or when your call back request was made. </p>
-			<p>A representative from the People’s Association may also approach you for further clarifications. If you are approached by persons who are assisting the CAP, you should ask for information about their agency / organisation and official identification. You can also contact their agency / organisation using the official contact details to verify their identity.</p>
+			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any personal information outside of the CAP website and the official CAP feedback form on FormSG. </p>
+			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call back request was made. </p>
+			<p>A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact PA using the official contact details to verify their identity. PA will not send you any email or SMS asking you to click on any link or ask for any personal information.</p>
     	<p>Should you receive any suspicious call or email, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
 			</p>
 		</div>
