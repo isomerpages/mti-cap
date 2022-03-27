@@ -58,7 +58,7 @@ description: "Learn more about CAP and how it can work with businesses.  "
 			</p>  
 			<p>You can contact CASE at 9795 8397 (Mondays to Fridays, 9am to 5pm) or PA to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 			</p>
-			<p>Should you receive any suspicious call or email, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
+			<p>Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
 			</p>
     </div>
 </li>
