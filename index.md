@@ -22,7 +22,7 @@ sections:
       title: About the Committee Against Profiteering (CAP)
       button: Learn more
       url: /aboutcap
-      description: CAP investigates feedback on unjustified price increases of
+      description: The CAP investigates feedback on unjustified price increases of
         essential products and services, using the GST increase as a cover.
   - infobar:
       title: Share Your Feedback
