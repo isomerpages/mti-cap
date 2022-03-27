@@ -10,15 +10,15 @@ description: Provide feedback on unjustified price increases of essential
     <label for="accordion1">What cases will the Committee Against Profiteering (CAP) investigate?</label>
     <div>
       <p>The CAP will investigate all allegations of unjustified price increases of essential goods and services that use the Goods and Services Tax (GST) as a cover. </p>
-      <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental, materials. </p>
-			<p>If a business raises its prices, it is not acceptable for businesses to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
+      <p>A number of factors could lead to price increases, such as an increase in operating costs including wages, utilities, rental and materials. </p>
+			<p>If a business raises its prices, it is not acceptable for the business to use the GST increase as the reason for raising prices before the GST implementation, nor is it acceptable for a business to raise prices by more than the GST after the GST implementation, citing the GST as the reason.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">What can I do if I come across a business that has raised prices using the GST increase as a cover?</label>
     <div>
-      <p>Raise the matter to the CAP. The CAP takes feedback on unjustified price increases of essentials using the GST increase as a cover, seriously. </p>
+      <p>Raise the matter to the CAP. The CAP takes feedback on unjustified price increases of essential goods and services   that use the GST increase as a cover, seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
 				<br>
   •	Details of the business, including name and location
@@ -30,7 +30,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-			<p>Kindly fill up this <a href="https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essentials that use the GST increase as a cover. </p>
+			<p>Kindly fill up this <a href="https://form.gov.sg/#!/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essential goods and services that use the GST increase as a cover. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
@@ -61,7 +61,7 @@ description: Provide feedback on unjustified price increases of essential
 			<label for="accordion7">I received an email/SMS from the CAP. How do I know it is genuine? </label>
     <div>
 			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any personal information outside of the CAP website and the official CAP feedback form on FormSG. </p>
-			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call back request was made. </p>
+			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call-back request was made. </p>
 			<p>A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact PA using the official contact details to verify their identity. PA will not send you any email or SMS asking you to click on any link or ask for any personal information.</p>
     	<p>Should you receive any suspicious call or email, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
 			</p>
