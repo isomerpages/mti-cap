@@ -9,7 +9,7 @@ Beware of scam calls, emails and SMSes impersonating the Committee Against Profi
 
 ##### 1.   Scam calls/ emails / SMSes made under the guise of the CAP
 
-There will be an acknowledgement email and SMS to those who provide their feedback through the the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. 
+There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any information outside of the CAP website and the official CAP feedback form on FormSG. 
 
 The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call-back request was made.
 
