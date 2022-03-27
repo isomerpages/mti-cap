@@ -29,13 +29,13 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 12\.<b>Mr Yeo Hiang Meng,</b> President, The Federation of Merchants’ Associations, Singapore<br>
 13\.<b>Mr Melvin Yong, </b>President, CASE<br>
 
-**What does CAP do?**
+**What does the CAP do?**
 
 The CAP focuses on essential food items commonly consumed or used by Singaporean households, such as eggs, chicken, vegetables and meals from hawker centres and coffee shops, as well as non-food essentials like household products. It will review and investigate feedback on unjustified price increases of essential products and services that use the GST increase as a cover.
 
 The CAP will not add any regulatory burden on businesses. Its role is to strengthen transparency and enable free market competition to function as it should. 
 
-**How does CAP carry out an investigation?**
+**How does the CAP carry out an investigation?**
 
 The CAP will work with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess feedback provided in relation to unjustified price increases using the GST increase as a cover, and engage with the relevant businesses where necessary.
 
