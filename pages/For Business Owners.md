@@ -3,7 +3,6 @@ title: For Business Owners
 permalink: /forbusinessowners
 description: "Learn more about the CAP and how it can work with businesses.  "
 ---
-
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
@@ -57,7 +56,7 @@ description: "Learn more about the CAP and how it can work with businesses.  "
     <div>
       <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official email address with the domain “@case.org.sg”. A representative from the People’s Association (PA) may also approach you for further clarifications.
 			</p>  
-			<p>You can contact CASE at 9795 8397 (Mondays to Fridays, 9am to 5pm) or PA to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
+			<p>You can contact CASE at 9795 8397 (Mondays to Fridays, 9am to 5pm) or PA at 6225 5322 to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 			</p>
 			<p>Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force through <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or the anti-scam hotline at 1800-722-6688.
 			</p>
