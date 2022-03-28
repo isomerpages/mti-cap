@@ -37,6 +37,6 @@ The CAP will not add any regulatory burden on businesses. Its role is to strengt
 
 **How does the CAP carry out an investigation?**
 
-The CAP will work with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA) and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases of essential goods and services that use the GST increase as a cover, and engage with the relevant businesses where necessary. 
+The CAP will work with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA) and the Consumers Association of Singapore (CASE), to assess the feedback provided on an unjustified price increase and engage with the relevant business where necessary. 
 
 As part of the investigation process, the CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes profiteering on the GST increase. The CAP may make public errant businesses that seek to profiteer on the pretext of rise in GST.
