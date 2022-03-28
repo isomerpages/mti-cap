@@ -45,7 +45,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How will the CAP follow up on the feedback raised?</label>
     <div>
-			<p>The CAP works closely with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases that use the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
+			<p>The CAP works closely with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases of essential goods and services that use the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
       <p>As part of the investigation process, the CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes profiteering on the GST increase. The CAP may make public errant businesses that seek to profiteer on the pretext of the rise in GST.</p>
     </div>
   </li>
