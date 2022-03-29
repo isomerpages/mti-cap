@@ -63,7 +63,7 @@ description: Provide feedback on unjustified price increases of essential
 			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any personal information outside of the CAP website and the official CAP feedback form on FormSG. </p>
 			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call-back request was made. </p>
 			<p>A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact PA at 6225 5322 (Mondays to Sundays, except Public Holidays, 8am to 6pm) to verify their identity. PA will not send you any email or SMS asking you to click on any link or ask for any personal information.</p>
-    	<p>Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force through www.scamalert.sg or the anti-scam hotline at 1800-722-6688.
+    	<p>Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force through <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or the anti-scam hotline at 1800-722-6688.
 			</p>
 		</div>
   </li>
