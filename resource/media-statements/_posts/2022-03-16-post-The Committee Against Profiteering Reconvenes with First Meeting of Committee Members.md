@@ -6,7 +6,6 @@ date: 2022-03-16
 layout: post
 description: ""
 ---
-
 1. The Committee Against Profiteering (CAP) reconvened on 16 March 2022 with the first meeting of the CAP members, comprising Members of Parliament, and representatives from the industry and grassroots organisations. Chaired by Minister of State for Trade and Industry Low Yen Ling, Chairperson for the CAP, the meeting reaffirmed the role of the CAP and set out the Committee’s priorities in addressing concerns that businesses could use the Goods and Services Tax (GST) as a cover to raise prices.
 
 
@@ -28,7 +27,7 @@ description: ""
 -END-
 
 
-**Annex A: List of Members for the Committee Against Profiteering**
+**Annex A: List of Members for the Committee Against Profiteering** 
 
 
 Chairperson
