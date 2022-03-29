@@ -38,7 +38,7 @@ sections:
       url: /resource
   - infobar:
       title: Scam Alert
-      description: Beware of scam calls, emails and SMSes impersonating the CAP.
+      description: Beware of any scam call, email or SMS impersonating the CAP.
       button: LEARN MORE
       url: /scamalert
 ---
