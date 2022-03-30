@@ -31,7 +31,7 @@ description: ""
 
 
 <u>Chairperson</u><br>
-1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
+1\.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
 
 <u>Members</u><br>
 2\. <b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
