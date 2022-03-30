@@ -12,8 +12,8 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 
 **Members of the CAP**
 
-<u>Chairperson</u>
-1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
+<u>Chairperson</u><br>
+1\.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
 
 <u>Members</u><br>
 2\. <b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
