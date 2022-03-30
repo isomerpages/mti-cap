@@ -4,7 +4,6 @@ permalink: /aboutcap
 description: "The CAP investigates feedback on unjustified price increases of
   essential products and services that use the GST increase as a cover. "
 ---
-
 **What is the Committee Against Profiteering (CAP)?**
 
 The CAP was reconvened on 16 March 2022, to investigate feedback on unjustified price increases of essential products and services that use the [Goods and Services Tax](https://www.mof.gov.sg/singapore-budget/budget-explainers) (GST) increase as a cover. 
@@ -17,8 +16,8 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
 
 <u>Members</u><br>
-2\. <b>Mr R. Dhinakaran,</b> President, Singapore Retailers Association<br>
-3\. <b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
+2\. <b>Mr Hong Poh Hin, </b>Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association<br>
+3\. <b>Mr Ernie Koh, </b>President, Singapore Retailers Association<br>
 4\. <b>Mr Andrew Kwan,</b> President, Restaurant Association of Singapore<br>
 5\.	<b>Mr Lam Yi Young,</b> CEO, Singapore Business Federation<br>
 6\.<b>Mr Lim Hock Chee,</b> CEO, Sheng Siong Group<br>
