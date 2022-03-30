@@ -30,7 +30,7 @@ description: ""
 **Annex A: List of Members for the Committee Against Profiteering** (Updated on 1 April 2022)
 
 
-<u>Chairperson</u>
+<u>Chairperson</u><br>
 1.	<b>Ms Low Yen Ling, </b>Minister of State for Trade and Industry
 
 <u>Members</u><br>
