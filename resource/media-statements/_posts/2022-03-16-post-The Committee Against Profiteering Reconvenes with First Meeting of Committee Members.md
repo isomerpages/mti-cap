@@ -31,7 +31,6 @@ description: ""
 
 
 Chairperson
-
 1. Ms Low Yen Ling, Minister of State for Trade and Industry
 
 Members
@@ -48,6 +47,7 @@ Members
 11. Mr David Tan, President, Singapore Food Manufacturers’ Association 
 12. Mr Yeo Hiang Meng, President, The Federation of Merchants’ Associations, Singapore
 13. Mr Melvin Yong, President, the Consumers Association of Singapore  
+
 
 **Annex B: Chinese Term for the Committee Against Profiteering**
 
