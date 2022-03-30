@@ -27,7 +27,7 @@ description: ""
 -END-
 
 
-**Annex A: List of Members for the Committee Against Profiteering** 
+**Annex A: List of Members for the Committee Against Profiteering** (Updated on 1 April 2022)
 
 
 Chairperson
@@ -36,8 +36,8 @@ Chairperson
 
 Members
 
-2. Mr R. Dhinakaran, President, Singapore Retailers Association
-3. Mr Hong Poh Hin, Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association
+2. Mr Hong Poh Hin, Vice-Chairman, Foochow Coffee Restaurants and Bar Merchants Association
+3. Mr Ernie Koh, President, Singapore Retailers Association
 4. Mr Andrew Kwan, President, Restaurant Association of Singapore 
 5. Mr Lam Yi Young, CEO, Singapore Business Federation
 6. Mr Lim Hock Chee, CEO, Sheng Siong Group
