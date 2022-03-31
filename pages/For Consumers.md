@@ -18,7 +18,7 @@ description: Provide feedback on unjustified price increases of essential
     <input type="checkbox" id="accordion2">
     <label for="accordion2">What can I do if I come across a business that has raised prices using the GST increase as a cover?</label>
     <div>
-      <p>Raise the matter to the CAP. The CAP takes feedback on unjustified price increases of essential goods and services   that use the GST increase as a cover, seriously. </p>
+      <p>Raise the matter to the CAP. The CAP takes feedback on unjustified price increases of essential goods and services   that use the GST increase as a cover seriously. </p>
       <p>Help us identify errant businesses by providing us with detailed information, including the following:
 				<br>
   •	Details of the business, including name and location
