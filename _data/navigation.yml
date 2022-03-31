@@ -1,17 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/hi-resolution/logo_20220216.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
+  - title: What is CAP?
+    url: /aboutcap
+  - title: For Consumers
+    url: /forconsumers
+  - title: For Business Owners
+    url: /forbusinessowners
+  - title: Resources
     resource_room: true
+  - title: Scam Alert
+    url: /scamalert
+  - title: Feedback Form
+    url: /shareyourfeedback

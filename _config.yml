@@ -1,41 +1,48 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Committee Against Profiteering (CAP)
+url: ""
+favicon: /images/hi-resolution/logo_20220216.jpg
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#806fbc"
+  secondary-color: "#806fbc"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#5f27df"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#806fbc"
     - title: media-color-three
-      color: '#00838f'
+      color: "#d3c5ff"
     - title: media-color-four
-      color: '#00838f'
+      color: "#5f27df"
     - title: media-color-five
-      color: '#00838f'
+      color: "#806fbc"
 resources_name: resource
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+description: "CAP investigates feedback on unjustified price increases of
+  essential products and services, using the upcoming GST increase as an excuse.
+  "
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -47,3 +54,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://mti-cap-staging.netlify.app
 prod: https://mti-cap-prod.netlify.app
+is_government: true
+google_analytics: UA-219618356-1

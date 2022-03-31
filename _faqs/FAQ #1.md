@@ -1,6 +1,7 @@
 ---
-title: FAQ
-permalink: /faq/
+title: "FAQ #1"
+permalink: /faq/FAQ1
+description: ""
 ---
 
 ### **FAQ**
