@@ -52,13 +52,13 @@ description: "Learn more about the CAP and how it can work with businesses.  "
 			
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">I received an email/SMS/call from the CAP. How do I know it is genuine? </label>
+    <label for="accordion4">I received an email/SMS/call from the CAP. How do I know it is genuine or if it is a scam? </label>
     <div>
       <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official email address with the domain “@case.org.sg”. A representative from the People’s Association (PA) may also approach you for further clarifications.
 			</p>  
 			<p>You can contact CASE at 9795 8397 (Mondays to Fridays, except Public Holidays, 9am to 5pm) or PA at 6225 5322 (Mondays to Sundays, except Public Holidays, 8am to 6pm) to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 			</p>
-			<p>Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force through <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or the anti-scam hotline at 1800-722-6688.
+			<p>If you have any scam-related information, please call the Police Hotline at 1800-255-000, or submit it online at <a href="www.police.gov.sg/iwitness" target="_blank">www.police.gov.sg/iwitness</a>. For information on scams, members of public can visit <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or call the Anti-Scam Hotline at 1800-722-6688.
 			</p>
     </div>
 </li>

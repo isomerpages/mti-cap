@@ -3,10 +3,9 @@ title: Scam Alert
 permalink: /scamalert
 description: Beware of any scam call, email or SMS impersonating the CAP.
 ---
-
 #### **Scam Alert**
 
-Beware of scam call, email or SMS impersonating the Committee Against Profiteering (CAP). Should you receive any suspicious call, email or SMS, do report the case to the Singapore Police Force via <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or the anti-scam hotline at 1800-722-6688. 
+Beware of any scam call, email or SMS impersonating the Committee Against Profiteering (CAP). If you have any scam-related information, please call the Police Hotline at 1800-255-000, or submit it online at <a href="www.police.gov.sg/iwitness" target="_blank">www.police.gov.sg/iwitness</a>. For information on scams, members of public can visit <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or call the Anti-Scam Hotline at 1800-722-6688.
 
 ##### 1.   Scam call/ email / SMS made under the guise of the CAP
 
