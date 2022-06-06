@@ -23,7 +23,7 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 6\.<b>Mr Lim Hock Chee,</b> CEO, Sheng Siong Group<br>
 7\.	<b>Mr Loh Wee Lee,</b> CEO, Lazada Singapore<br>
 8\.	<b>Ms Hazel Poa, </b>Non-Constituency Member of Parliament<br>
-9\.	<b>Mr Seah Kian Peng,</b> Group CEO, NTUC Fairprice<br>
+9\.	<b>Mr Seah Kian Peng,</b> Deputy Chairman, NTUC Fairprice Group<br>
 10\.	<b>Mdm Amatul Jameel Suhani,</b> Chairperson, People’s Association Malay Activity Executive Committees Council<br>
 11\.<b>Mr David Tan, </b>President, Singapore Food Manufacturers’ Association<br>
 12\.<b>Mr Yeo Hiang Meng,</b> President, The Federation of Merchants’ Associations, Singapore<br>
