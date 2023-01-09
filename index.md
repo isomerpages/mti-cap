@@ -5,8 +5,7 @@ description: "CAP investigates feedback on unjustified price increases of
   essential products and services, using the upcoming GST increase as a cover. "
 image: /images/isomer-logo.svg
 permalink: /
-notification: The website will be undergoing scheduled maintenance from 9
-  January 2023, Monday, 11.00pm to 10 January 2023, Tuesday, 3.00am.
+notification: ""
 sections:
   - hero:
       background: /images/hi-resolution/Masthead (Final).jpg
