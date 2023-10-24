@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hi-resolution/Masthead (Final).jpg
+      background: /images/hi-resolution/masthead (final).jpg
       url: /contact-us/
       key_highlights:
         - title: For consumers
