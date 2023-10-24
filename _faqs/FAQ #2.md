@@ -1,6 +1,6 @@
 ---
 title: "FAQ #2"
-permalink: /faqs/permalink
+permalink: /faqs/permalink/
 description: ""
 ---
 Lorem ipsum dolor sit amet, ad cetero detracto forensibus sea, nec in neglegentur philosophia, mollis vivendo singulis an per. No mea dicant adolescens comprehensam. Nec blandit liberavisse cu. Et mei alii exerci ornatus, id duo causae platonem. His justo simul te, dicam animal probatus ea usu.

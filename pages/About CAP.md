@@ -1,6 +1,6 @@
 ---
 title: About CAP
-permalink: /aboutcap
+permalink: /aboutcap/
 description: "The CAP investigates feedback on unjustified price increases of
   essential products and services that use the GST increase as a cover. "
 ---

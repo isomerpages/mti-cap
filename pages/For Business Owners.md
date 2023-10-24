@@ -1,6 +1,6 @@
 ---
 title: For Business Owners
-permalink: /forbusinessowners
+permalink: /forbusinessowners/
 description: "Learn more about the CAP and how it can work with businesses.  "
 ---
 <ul class="jekyllcodex_accordion">
