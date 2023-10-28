@@ -1,0 +1,14 @@
+logo: /images/hi-resolution/logo_20220216.jpg
+links:
+  - title: What is CAP?
+    url: /aboutcap
+  - title: For Consumers
+    url: /forconsumers
+  - title: For Business Owners
+    url: /forbusinessowners
+  - title: Resources
+    resource_room: true
+  - title: Scam Alert
+    url: /scamalert
+  - title: Feedback Form
+    url: /shareyourfeedback
