@@ -28,7 +28,7 @@ The CAP was first set up in 1994 with the introduction of GST. It was reconvened
 10\.	<b>Mdm Amatul Jameel Suhani,</b> Chairperson, People’s Association Malay Activity Executive Committees Council<br>
 11\.<b>Mr David Tan, </b>President, Singapore Food Manufacturers’ Association<br>
 12\.<b>Mr Yeo Hiang Meng,</b> President, The Federation of Merchants’ Associations, Singapore<br>
-13\.<b>Mr Melvin Yong, </b> President, CASE<br>
+13\.<b>Mr Melvin Yong, </b> President, Consumers Association of Singapore<br>
 
 **What does the CAP do?**
 
