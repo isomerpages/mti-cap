@@ -1,6 +1,6 @@
 ---
 title: Example Title
-permalink: /faqs/exampletitle
+permalink: /faqs/exampletitle/
 description: ""
 ---
 

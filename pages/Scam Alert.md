@@ -1,6 +1,6 @@
 ---
 title: Scam Alert
-permalink: /scamalert
+permalink: /scamalert/
 description: Beware of any scam call, email or SMS impersonating the CAP.
 ---
 #### **Scam Alert**

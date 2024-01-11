@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mti-cap-staging.netlify.app
-prod: https://mti-cap-prod.netlify.app
+staging: https://staging.d3q877cj22gblf.amplifyapp.com/
+prod: https://master.d3q877cj22gblf.amplifyapp.com/
 is_government: true
 google_analytics: UA-219618356-1
