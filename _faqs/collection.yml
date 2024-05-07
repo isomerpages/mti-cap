@@ -1,0 +1,7 @@
+collections:
+  faqs:
+    output: true
+    order:
+      - Example Title.md
+      - "FAQ #2.md"
+      - "FAQ #1.md"
