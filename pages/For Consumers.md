@@ -54,7 +54,7 @@ variant: markdown
     <input type="checkbox" id="accordion6">
 			<label for="accordion6">What support can I get to cope with rising prices?</label>
     <div>
-			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/budget-2023/support-for-households" target="_blank">here</a> . </p>
+			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/resources/support-for-households#:~:text=Eligible%20Singaporeans%20(i)%20who%20are,and%20%24400%20in%20September%202024." target="_blank">here</a> . </p>
     </div>
   </li>
 	<li>
