@@ -3,6 +3,7 @@ title: For Consumers
 permalink: /forconsumers/
 description: Provide feedback on unjustified price increases of essential
   products and services that use the GST increase as a cover.
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
