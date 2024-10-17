@@ -39,7 +39,7 @@ variant: markdown
     <input type="checkbox" id="accordion4">
     <label for="accordion4">I need help filling up the feedback form. What can I do?</label>
     <div>
-			<p>You can visit any of the People's Association Community Clubs/Centres (<a href="https://www.pa.gov.sg" target="_blank">www.pa.gov.sg</a>) or call 6797 0618 (Mondays to Fridays, except Public Holidays, 9am to 6pm).</p>
+			<p>You can visit any of the People's Association Community Clubs/Centres (<a href="https://www.pa.gov.sg" target="_blank">www.pa.gov.sg</a>) or call 6991 7055 (Mondays to Fridays, except Public Holidays, 9am to 6pm).</p>
     </div>
   </li>
 	<li>
