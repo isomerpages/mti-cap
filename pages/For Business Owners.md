@@ -1,7 +1,8 @@
 ---
 title: For Business Owners
 permalink: /forbusinessowners/
-description: "Learn more about the CAP and how it can work with businesses.  "
+description: Learn more about the CAP and how it can work with businesses.
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li>
@@ -42,7 +43,7 @@ description: "Learn more about the CAP and how it can work with businesses.  "
 				The Government continues to extend support to businesses in need, to defray operating costs. Read more <a href="https://www.mti.gov.sg/COS-2022/Factsheets-on-Key-Announcements" target="_blank">here</a>. 
 			</p>
 			<p>
-				For a better understanding of the support available to grow your business, reach out to our SME Centres by booking a consultation <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview" target="_blank">here</a>, or visit<a href="https://www.gobusiness.gov.sg/gov-assist/" target="_blank"> GoBiz GovAssist</a>.
+				For a better understanding of the support available to grow your business, reach out to our SME Centres by booking a consultation <a href="http://www.enterprisesg.gov.sg/about-us/contact-us/sme-centres" target="_blank">here</a>, or visit<a href="https://www.gobusiness.gov.sg/gov-assist/" target="_blank"> GoBiz GovAssist</a>.
 			</p>
 			<p>
 				You may also approach your representative body such as trade associations to find out more about the support available for your industry, or if you wish to provide feedback on the support for businesses.
