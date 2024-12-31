@@ -31,7 +31,7 @@ variant: markdown
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-			<p>Kindly fill up this <a href="https://go.gov.sg/capform" target="_blank">form</a>  to provide details about cases of unjustified price increases of essential goods and services that use the GST increase as a cover. </p>
+			<p>Kindly fill up this <a href="https://form.gov.sg/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essential goods and services that use the GST increase as a cover. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
