@@ -11,4 +11,4 @@ If a business raises its prices, it is not acceptable for the business to use th
 
 If you come across a business that may have raised prices using the GST increase as a cover, raise the matter to the CAP. Help us identify errant businesses by providing us with detailed information through our feedback form. The CAP takes feedback on unjustified price increases of essential products and services that use the GST increase as a cover seriously.
 
-Click <a href="https://form.gov.sg/61d7bd7e6c60da0012ba2383" target="_blank">here</a> for the feedback form.
+Click <a href="https://form.gov.sg/6819692824bf85595035229b" target="_blank">here</a> for the feedback form.
