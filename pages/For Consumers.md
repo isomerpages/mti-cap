@@ -31,7 +31,7 @@ variant: markdown
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How should I share my feedback?</label>
     <div>
-			<p>Kindly fill up this <a href="https://form.gov.sg/61d7bd7e6c60da0012ba2383" target="_blank">form</a>  to provide details about cases of unjustified price increases of essential goods and services that use the GST increase as a cover. </p>
+			<p>Kindly fill up this <a href="https://form.gov.sg/6819692824bf85595035229b" target="_blank">form</a>  to provide details about cases of unjustified price increases of essential goods and services that use the GST increase as a cover. </p>
       <p>All feedback submitted will be reviewed, and further investigated if necessary, for us to identify businesses that may have engaged in unjustified price increases. </p>
     </div>
   </li>
@@ -64,7 +64,7 @@ variant: markdown
 			<p>There will be an acknowledgement email and SMS to those who provide their feedback through the official CAP feedback form on FormSG. The CAP will not send you any email or SMS asking you to click on any link or provide any personal information outside of the CAP website and the official CAP feedback form on FormSG. </p>
 			<p>The CAP will not call you unless you have provided feedback through the official CAP feedback form on FormSG, or if you have requested a call-back. If you do receive a call from the CAP, you may wish to ask the caller to verify the Response ID (if applicable) of your feedback, or when your call-back request was made. </p>
 			<p>A representative from the People’s Association (PA) may also approach you for further clarifications. You can contact PA at 6225 5322 (Mondays to Sundays, except Public Holidays, 8am to 6pm) to verify their identity. PA will not send you any email or SMS asking you to click on any link or ask for any personal information.</p>
-			<p>If you have any scam-related information, please call the Police Hotline at 1800-255-000, or submit it online at <a href="http://www.police.gov.sg/iwitness" target="_blank">www.police.gov.sg/iwitness</a>. For information on scams, members of public can visit <a href="http://www.scamalert.sg" target="_blank">www.scamalert.sg</a> or call the Anti-Scam Hotline at 1800-722-6688.</p>
+			<p>If you have any scam-related information, please call the Police Hotline at 1800-255-000, or submit it online at <a href="http://www.police.gov.sg/iwitness" target="_blank">www.police.gov.sg/iwitness</a>. For information on scams, members of public can visit&nbsp;[www.scamshield.gov.sg](http://www.scamshield.gov.sg/)&nbsp;or call the 24/7 ScamShield Helpline at 1799.</p>
 		</div>
   </li>
 	</ul>
