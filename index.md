@@ -5,8 +5,8 @@ description: CAP investigates feedback on unjustified price increases of
   essential products and services, using the upcoming GST increase as a cover.
 image: /images/isomer-logo.svg
 permalink: /
-notification: '[Scam Advisory] GoBusiness will NEVER ask you to transfer money
-  or disclose banking details over a phone call. <a
+notification: '[Scam Advisory] The Committee Against Profiteering will NEVER ask
+  you to transfer money or disclose banking details over a phone call. <a
   href="https://www.cap.gov.sg/scamalert/">Learn more</a>'
 sections:
   - hero:
