@@ -1,11 +1,13 @@
 ---
 layout: homepage
 title: Committee Against Profiteering (CAP)
-description: "CAP investigates feedback on unjustified price increases of
-  essential products and services, using the upcoming GST increase as a cover. "
+description: CAP investigates feedback on unjustified price increases of
+  essential products and services, using the upcoming GST increase as a cover.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: '[Scam Advisory] The Committee Against Profiteering will NEVER ask
+  you to transfer money or disclose banking details over a phone call. <a
+  href="https://www.cap.gov.sg/scamalert/">Learn more</a>'
 sections:
   - hero:
       background: /images/hi-resolution/masthead (final).jpg
