@@ -40,7 +40,7 @@ variant: markdown
     <label for="accordion3">What support can I get to cope with rising costs?</label>
     <div>
       <p>
-				The Government continues to extend support to businesses in need, to defray operating costs. Read more <a href="https://www.mti.gov.sg/COS-2022/Factsheets-on-Key-Announcements" target="_blank">here</a>. 
+				The Government continues to extend support to businesses in need, to defray operating costs. 
 			</p>
 			<p>
 				For a better understanding of the support available to grow your business, reach out to our SME Centres by booking a consultation <a href="http://www.enterprisesg.gov.sg/about-us/contact-us/sme-centres" target="_blank">here</a>, or visit<a href="https://www.gobusiness.gov.sg/gov-assist/" target="_blank"> GoBiz GovAssist</a>.
@@ -57,7 +57,7 @@ variant: markdown
     <div>
       <p> Some businesses may receive emails from the Consumers Association of Singapore (CASE) via CASE’s official email address with the domain “@case.org.sg”. A representative from the People’s Association (PA) may also approach you for further clarifications.
 			</p>  
-			<p>You can contact CASE at 9795 8397 (Mondays to Fridays, except Public Holidays, 9am to 5pm) or PA at 6225 5322 (Mondays to Sundays, except Public Holidays, 8am to 6pm) to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
+			<p>You can contact CASE at 6277 5100 (Mondays to Fridays, except Public Holidays, 9am to 5pm) or PA at 6225 5322 (Mondays to Sundays, except Public Holidays, 8am to 6pm) to verify their identity. CASE and PA will not send you any email or SMS asking you to click on any link or ask for any personal information.
 			</p>
 			<p>If you have any scam-related information, please call the Police Hotline at 1800-255-000, or submit it online at <a href="http://www.police.gov.sg/iwitness" target="_blank">www.police.gov.sg/iwitness</a>. For information on scams, members of public can visit&nbsp;<a href="www.scamshield.gov.sg" target="_blank">http://www.scamshield.gov.sg/</a>&nbsp;or call the 24/7 ScamShield Helpline at 1799.
 			</p>
