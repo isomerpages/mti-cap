@@ -59,7 +59,7 @@ that seek to profiteer on the pretext of the rise in GST.</p>
 <li>
 <p>What support can I get to cope with rising prices?</p>
 <p>There are many schemes rolled out by the Government to help Singaporeans
-in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/budget-2025-highlights/support-for-you-and-your-household" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
+in need. Read more <a href="https://www.singaporebudget.gov.sg/highlights/support-for-singaporeans" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
 </li>
 <li>
 <p>I received an email/SMS/call from the CAP. How do I know it is genuine
